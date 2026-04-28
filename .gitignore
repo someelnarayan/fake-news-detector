@@ -7,9 +7,6 @@ __pycache__/
 # Dataset file
 *.csv
 
-# Model files
-*.joblib
-
 # IDE
 .idea/
 .vscode/
